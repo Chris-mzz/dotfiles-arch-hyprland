@@ -1,0 +1,1 @@
+/home/kiki/.config/hypr/themes/gruvbox/generated/hyprland-colors.lua
